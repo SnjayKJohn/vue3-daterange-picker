@@ -1,6 +1,6 @@
 {
   "name": "daterange-picker-for-vue-3",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Vue3 date range picker based on https://github.com/Innologica/vue2-daterange-picker (no jQuery)",
   "author": "David Olmos",
   "main": "dist/daterange-picker-for-vue-3.umd.min.js",
@@ -36,7 +36,7 @@
     "es6-symbol": "^3.1.3",
     "eslint": "^8.9.0",
     "eslint-plugin-vue": "^8.4.1",
-    "node-sass": "^7.0.1",
+    "sass": "^1.101.0",
     "sass-loader": "^12.6.0",
     "webpack": "^5.69.1"
   },
