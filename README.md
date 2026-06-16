@@ -1,4 +1,4 @@
-# daterange-picker-vue3
+# daterange-picker-for-vue-3
 
 > Vue date range picker base on https://innologica.github.io/vue2-daterange-picker (no jQuery)
 
@@ -11,7 +11,7 @@ https://innologica.github.io/vue2-daterange-picker/
 
 ```bash
 # install via npm
-npm i daterange-picker-vue3 --save
+npm i daterange-picker-for-vue-3 --save
 ```
 
 ## TODO
